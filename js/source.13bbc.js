@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/instagram/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
@@ -1277,4 +1277,4 @@ _reactDom.default.render(_react.default.createElement(_Instagram.default, null),
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=source.1ef7c.js.map
+//# sourceMappingURL=source.13bbc.js.map
