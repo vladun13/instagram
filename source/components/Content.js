@@ -1,13 +1,13 @@
 // Core
-import React from 'react';
+import { Component } from 'react';
 
 import Profile from './Profile';
 import Photos from './Photos';
 
-export default class Content extends React.Component {
+export default class Content extends Component {
     render () {
         return (
-            <div className = 'content'>
+            <div className='content'>
                 <Profile />
                 <Photos />
             </div>

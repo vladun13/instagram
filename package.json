@@ -3,6 +3,7 @@
     "version": "0.3.0",
     "author": "Dima Vakatsiienko <d.vakatsiienko@lectrum.io>",
     "private": true,
+    "homepage": "https://github.com/vladun13/instagram.git",
     "scripts": {
         "start": "nodemon",
         "build:config": "webpack --config=\"./webpack/webpack.config.babel.js\" --env production --display-reasons",
